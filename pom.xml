@@ -30,7 +30,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <quarkus.version>3.2.0.Final</quarkus.version>
-    <jte.version>3.0.1</jte.version>
+    <jte.version>3.1.0</jte.version>
   </properties>
   <dependencyManagement>
     <dependencies>
